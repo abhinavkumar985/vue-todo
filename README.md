@@ -1,5 +1,5 @@
 # vue-todo
-
+A vue Todo App with Vuex
 ## Project setup
 ```
 npm install
